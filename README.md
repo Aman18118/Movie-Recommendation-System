@@ -63,7 +63,7 @@ A sophisticated movie recommendation system built with Streamlit that provides p
 
 1. *Clone the repository*
 bash
-git clone https://github.com/yourusername/movie-recommender-system.git
+git clone https://github.com/Aman18118/movie-recommender-system.git
 cd movie-recommender-system
 
 
@@ -214,7 +214,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - your.email@example.com
 
-Project Link: [https://github.com/yourusername/movie-recommender-system](https://github.com/yourusername/movie-recommender-system)
+Project Link: [https://github.com/Aman18118/movie-recommender-system](https://github.com/Aman18118/movie-recommender-system)
 
 ---
 
